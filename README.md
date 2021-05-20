@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aelghezzaz im software developer
+- 👀 I’m interested in web developement | AI/ML | CLOUD
+- 🌱 I’m currently learning ...NEW THINGS
