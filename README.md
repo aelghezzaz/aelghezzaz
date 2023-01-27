@@ -1,7 +1,7 @@
 Hi 👋 My name is asmae el-ghezzaz
 =================================
 
-software developer
+Data analyst
 ------------------
 
 I believe in continuous learning and I am constantly reading and keeping up-to-date on the latest technologies that can change the world and make it a better place. Experienced Ambassador at WomentechNetwork company, encouraging women to join the world of technology.
