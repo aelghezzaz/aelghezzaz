@@ -6,10 +6,10 @@ Data scientist/software developer
 
 I believe in continuous learning and I am constantly reading and keeping up-to-date on the latest technologies that can change the world and make it a better place. Experienced Ambassador at WomentechNetwork company, encouraging women to join the world of technology.
 
-* 🌍  I'm based in morocco
+* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elghezzazasmae@gmail.com](mailto:elghezzazasmae@gmail.com)
-* 🧠  I'm learning python / AI/ machine learnig /data science
-* ⚡  im nature lover
+* 🧠  I'm learning Python / AI/ machine learning/data science
+* ⚡  im  a nature lover
 
 <a href="https://www.twitter.com/ElGhezzaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ElGhezzaz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
